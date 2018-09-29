@@ -214,6 +214,16 @@ x = 3^{-2}(2^{a+b+c} - 2^{b+c} - 2^c3^1) \\
 
 ---
 
+## 最近の動向
+
+* 2011年
+* https://www.reddit.com/r/math/comments/hqqph/collatz_3n_1_conjecture_solved/c1xp6iu/
+* https://preprint.math.uni-hamburg.de/public/papers/hbam/hbam2011-09.pdf
+* どうもダメだったっぽい……。
+* https://mathlesstraveled.com/2011/06/04/the-collatz-conjecture-is-safe-for-now/
+
+---
+
 ## 未解決問題楽しい！
 
 - 正解はまだない = 何でもアリ
